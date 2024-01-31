@@ -757,7 +757,7 @@
     (property "Value" "Power Connector" (at 111.76 48.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Fiducial:Fiducial_0.75mm_Mask2.25mm" (at 109.22 45.72 0)
+    (property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical" (at 109.22 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 109.22 45.72 0)
