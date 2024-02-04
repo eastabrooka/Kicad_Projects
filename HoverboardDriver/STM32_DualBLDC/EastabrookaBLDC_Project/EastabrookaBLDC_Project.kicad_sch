@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 611dd54e-c711-4af1-839a-27cad68a278e)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 121.92 72.39) (size 38.1 39.37) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d14f6801-36da-4e75-bd91-8f5244513571)
+    (property "Sheetname" "MCU" (at 121.92 71.6784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "STM_MCU.kicad_sch" (at 121.92 112.3446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "EastabrookaBLDC_Project"
+        (path "/611dd54e-c711-4af1-839a-27cad68a278e" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
