@@ -475,6 +475,14 @@
     [
       "d14f6801-36da-4e75-bd91-8f5244513571",
       "MCU"
+    ],
+    [
+      "73ee5507-b4b4-402c-8374-1d6d07b33cbd",
+      "TI_DRV1"
+    ],
+    [
+      "cce7b83c-efde-4daa-86ac-4a7b4bccd01e",
+      "TI_DRV2"
     ]
   ],
   "text_variables": {}

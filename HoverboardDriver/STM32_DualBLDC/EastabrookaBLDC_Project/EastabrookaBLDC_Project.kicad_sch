@@ -8,6 +8,40 @@
   )
 
 
+  (sheet (at 182.88 57.15) (size 22.86 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 73ee5507-b4b4-402c-8374-1d6d07b33cbd)
+    (property "Sheetname" "TI_DRV1" (at 182.88 56.4384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "TI_DRV1.kicad_sch" (at 182.88 81.8646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "EastabrookaBLDC_Project"
+        (path "/611dd54e-c711-4af1-839a-27cad68a278e" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 182.88 91.44) (size 22.86 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid cce7b83c-efde-4daa-86ac-4a7b4bccd01e)
+    (property "Sheetname" "TI_DRV2" (at 182.88 90.7284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "TI_DRV2.kicad_sch" (at 182.88 116.1546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "EastabrookaBLDC_Project"
+        (path "/611dd54e-c711-4af1-839a-27cad68a278e" (page "4"))
+      )
+    )
+  )
+
   (sheet (at 121.92 72.39) (size 38.1 39.37) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
